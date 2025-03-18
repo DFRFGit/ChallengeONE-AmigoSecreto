@@ -6,7 +6,7 @@ Este proyecto es una aplicación web sencilla del reto de AluraONE Amigo Secreto
 2. Visualizar los nombres ingresados en una lista dinámica.
 3. Sortear de manera aleatoria un nombre de la lista y mostrar el resultado en pantalla.
 ## Funcionalidades
-###1. Agregar nombres de amigos
+1. Agregar nombres de amigos
 - Los usuarios escriben el nombre de un amigo en el campo de texto y debe agregarlo a la lista haciendo clic en el botón **"Adicionar ̈**. - Si el campo está vacío, el sistema muestra un mensaje de alerta diciendo que debe agregar un nombre.
 ### 2. Visualizar la lista
 - Cada nombre de los amigos ingresado se muestra en una lista debajo del campo de entrada.
